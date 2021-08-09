@@ -8,6 +8,8 @@ import 'package:news_app/Screens/BottomNavScreens/sports_screen.dart';
 import 'package:news_app/cubit/BottomNavBar/cubit_newsStates.dart';
 
 
+
+
  class CubitNews extends Cubit<NewsStates>{
   CubitNews():super (InitialState());
 
